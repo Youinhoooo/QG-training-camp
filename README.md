@@ -1,1 +1,1 @@
-# QG-training
+# QG-training-camp
